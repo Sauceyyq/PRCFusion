@@ -1,4 +1,4 @@
-# Towards High-Level Vision Tasks: A Texture-Semantic Collaborative Network for Infrared and Visible Image Fusion
+<img width="7881" height="3288" alt="Work" src="https://github.com/user-attachments/assets/c7b93fb5-a6c1-4010-b09d-f5914dea67e7" /># Towards High-Level Vision Tasks: A Texture-Semantic Collaborative Network for Infrared and Visible Image Fusion
 
 * * *
 
@@ -9,7 +9,10 @@
 > The full source code and pretrained models will be made publicly available upon acceptance.
 
 * * *
-
+* * *
+🧠 Architecture
+.\Work.png
+* * *
 📖 Abstract
 
 Infrared and visible image fusion aims to integrate complementary information from distinct modalities to enhance scene representation. Although deep learning-based methods have achieved significant progress, most existing approaches are constrained by a single-stage reconstruction paradigm. To address these challenges, we propose **PRCFusion**, a fusion network that establishes a multi-task framework via a progressive refinement cascade mechanism.
