@@ -4,7 +4,7 @@
 
 > **📢 Note**
 > 
-> This repository contains the supplementary material and code implementation for the paper "A Texture-Semantic Collaborative Progressive Refinement Fusion Network of Infrared and Visible Images for High-Level Vision Tasks".
+> This repository contains the supplementary material and code implementation for the paper "Towards High-Level Vision Tasks: A Texture-Semantic Collaborative Network for Infrared and Visible Image Fusion".
 > 
 > The full source code and pretrained models will be made publicly available upon acceptance.
 
