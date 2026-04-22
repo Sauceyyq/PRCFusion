@@ -37,7 +37,7 @@ Infrared and visible image fusion integrates complementary multimodal features t
   <img width="95%" alt="Architecture of PRCFusion" src="https://github.com/user-attachments/assets/c7b93fb5-a6c1-4010-b09d-f5914dea67e7" />
 </p>
 <p align="center">
-  <em>Figure 1: The overall architecture of the proposed PRCFusion network.</em>
+  <em>Figure 1: The overall architecture of the proposed PRFusion network.</em>
 </p>
 
 ---
